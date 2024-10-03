@@ -22,10 +22,20 @@ button {
 }
 
 .doneButton {
+  font-weight: bold;
   position: absolute;
   bottom: 5px;
   left: 5px;
-  color: green;
+  color: #ffffff;
+  background: #177307;
+}
+.deleteButton {
+  font-weight: bold;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  color: #ffffff;
+  background: #860707;
 }
 .container{
   text-align: center;
